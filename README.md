@@ -1,1 +1,1 @@
-The official code will be released soon.
+The official implementation code of "From Spatial to Frequency Domain: A Pure Frequency Domain FDNet Model for the Classification of Remote Sensing Images". We will continue to improve the relevant content.
