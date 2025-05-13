@@ -8,6 +8,8 @@ If you use this code or ideas from our work, please cite our paper:
   title={From Spatial to Frequency Domain: A Pure Frequency Domain FDNet Model for the Classification of Remote Sensing Images},
   author={Wang, Wei and Yang, Tianle and Wang, Xin},
   journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={62},
+  pages={1--13},
   year={2024},
   publisher={IEEE}
 }
